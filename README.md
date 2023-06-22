@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Charles Poirier. I am a M.Sc. candidate in computer sciences, working on diffusion magnetic resonance imaging.
+I'm Charles Poirier. I am a Ph.D. candidate in computer sciences, working on diffusion magnetic resonance imaging.
 
 My fields of interest are:
 - Image processing :camera:
