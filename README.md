@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Charles Poirier. I am a Ph.D. candidate in computer sciences, working on diffusion magnetic resonance imaging.
+I'm Charles Poirier. I am a Ph.D. candidate in computer sciences, currently working on brain image processing for serial optical coherence tomography and diffusion magnetic resonance imaging.
 
 My fields of interest are:
 - Image processing :camera:
@@ -9,6 +9,7 @@ My fields of interest are:
 - Deep learning :chart_with_downwards_trend:
 
 Some other (less relevant) interests include:
+* Cycling :biking_man:
 * Music (playing and listening to) :guitar:
 * TV series :tv:
 * Outdooring :sunrise_over_mountains:
